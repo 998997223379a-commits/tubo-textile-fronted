@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/tubo-textile-frontend/static/css/main.86147d1b.css",
-    "main.js": "/tubo-textile-frontend/static/js/main.a85132a6.js",
+    "main.js": "/tubo-textile-frontend/static/js/main.aa112eb9.js",
     "static/js/453.20359781.chunk.js": "/tubo-textile-frontend/static/js/453.20359781.chunk.js",
     "index.html": "/tubo-textile-frontend/index.html",
     "main.86147d1b.css.map": "/tubo-textile-frontend/static/css/main.86147d1b.css.map",
-    "main.a85132a6.js.map": "/tubo-textile-frontend/static/js/main.a85132a6.js.map",
+    "main.aa112eb9.js.map": "/tubo-textile-frontend/static/js/main.aa112eb9.js.map",
     "453.20359781.chunk.js.map": "/tubo-textile-frontend/static/js/453.20359781.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.86147d1b.css",
-    "static/js/main.a85132a6.js"
+    "static/js/main.aa112eb9.js"
   ]
 }
